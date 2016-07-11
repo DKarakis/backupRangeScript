@@ -1,3 +1,7 @@
+if ! rpm -qa | grep -qw ftp; then
+    yum -y install ftp
+fi
+
 FILE=$(ls | head -1)
 
 num=`basename $FILE .EXTENSION`
