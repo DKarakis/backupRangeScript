@@ -8,5 +8,7 @@ Once you upload this bash file to a certain folder, simply run bash file. Script
   /bash backupRangeScript.sh
   
 ##Attention
+OS must be Centos,
+
 
 Your files must contain numbers otherwise the script won't work.
