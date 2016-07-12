@@ -15,4 +15,5 @@ Your files must contain numbers otherwise the script won't work.
 
 ##Changelog
 v1 - Only works with files containing numbers.
+
 v2 - Script collects last weeks 500 files and tars.
